@@ -16,7 +16,7 @@ As part of this launch, I’m also introducing **$WebSynthAI** on the **Solana n
 XXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-🔗 More about **Web3Forge AI**: [Website](https://www.websynthai.com/)  
+🔗 More about **WebSynthAI**: [Website](https://www.websynthai.com/)  
 
 ---
 
